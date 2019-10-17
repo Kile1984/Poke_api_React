@@ -1,0 +1,13 @@
+.btn-random{
+    background-color: #30a7d7!important;
+    border-color: #30a7d7!important;
+    transition: .3s !important;
+    &:active, &:focus{
+        // border: 1px solid red!important;
+        box-shadow: 0 0 0 0.1rem rgba(0,123,255,.25)!important;
+    }
+    &:hover{
+        opacity: .9;
+    }
+    
+}

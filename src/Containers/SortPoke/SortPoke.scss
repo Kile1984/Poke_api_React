@@ -1,0 +1,7 @@
+.select-pokemons{
+    select{
+        &active, &:focus{
+            box-shadow: 0 0 0 0.1rem rgba(0,123,255,.25);
+        }
+    }
+}

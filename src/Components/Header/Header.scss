@@ -1,0 +1,35 @@
+header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    h2{
+        color: #919191;
+        text-align: center;
+        font-weight: 900;
+    }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+    header{
+        h2{
+            text-align: left;
+        }
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+  
+}
+
+

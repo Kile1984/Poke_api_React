@@ -1,0 +1,23 @@
+.single-pokemon{
+    img{
+        background: #f2f2f2;
+    }
+    .pokemon-properties{
+        .letter-spaccing{
+            letter-spacing: 3px;
+        }
+        li{
+            color: #fff;
+            background: #30a7d7;
+            border: 0;
+            flex-wrap: wrap;
+        }
+        .badge-custom{
+            color: #30a7d7;
+            background-color:#fff;
+        }
+    }
+}
+@media (min-width: 576px) {
+
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Flexo-Regular;
+    src: url("../../fonts/Flexo W01 Regular.ttf");
+}
+body, html{
+    font-family: Flexo-Regular!important;
+}
+.main-bgr{
+    background: #424242 url("../../img/container_bg.png");
+    background-size: cover;
+}
+.main-content{
+    background: #fff;
+}
+.search{
+    background: #424242;
+}
